@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**JonathanWThom/JonathanWThom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonathan and I'm not too sure what to put here, so I'm going to follow GitHub's suggestions. Protip: To get a profile like this, create a repo named the same thing as your username.
 
-Here are some ideas to get you started:
+👨‍💻 My day job is working on integrations for [UserTesting](https://www.usertesting.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍺 I write a lot of code in my off hours too. My favorite kind of side project is one that can get to an MVP in a weekend, but that lends itself to endless iteration. I have been most recently endlessly iterating on [quack](https://github.com/JonathanWThom/quack) and a couple of other secret things 🙊. I would love to collaborate on something small and useful.
+
+💎 I write Ruby, JavaScript, Go, and just started learning Rust. 
+
+🌎 You can visit my personal site at [jonathanthom.com](https://jonathanthom.com), but this page is probably a lot more interesting.
+
+😄 Pronouns: He/Him
+
+🐶 The dog in my photo is Ernie. He has a "brother," Bert the cat 🐱.
