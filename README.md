@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I'm Jonathan and I'm not too sure what to put here, so I'm going to follow GitHub's suggestions. Protip: To get a profile like this, create a repo named the same thing as your username.
+I'm Jonathan and I'm not too sure what to put here, so I'm going to follow GitHub's lead. Protip: To get a profile like this, create a repo named the same thing as your username.
 
 👨‍💻 My day job is working on integrations for [UserTesting](https://www.usertesting.com/).
 
