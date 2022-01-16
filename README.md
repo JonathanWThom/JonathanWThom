@@ -2,11 +2,11 @@
 
 I'm Jonathan and I'm not too sure what to put here, so I'm going to follow GitHub's lead. Protip: To get a profile like this, create a repo named the same thing as your username.
 
-👨‍💻 My day job is working on customer facing products for [UserTesting](https://www.usertesting.com/).
+👨‍💻 My day job is working as a tech lead for [UserTesting](https://www.usertesting.com/).
 
-🍺 I write a lot of code in my off hours too. My favorite kind of side project is one that can get to an MVP in a weekend, but that lends itself to endless iteration. I would love to collaborate on something small and useful. I most recently have been working on [Agen](https://github.com/jonathanwthom/agen).
+🍺 I write a lot of code in my off hours too. My favorite kind of side project is one that can get to an MVP in a weekend, but that lends itself to endless iteration. I would love to collaborate on something small and useful. I most recently have been working on a Ruby clone of [Wordle](https://github.com/jonathanwthom/wordle).
 
-💎 I write Ruby, JavaScript, Go, and just started learning Rust. 
+💎 I write Ruby, JavaScript, and Go. 
 
 🌎 You can visit my personal site at [jonathanthom.com](https://jonathanthom.com), but this page is probably a lot more interesting.
 
