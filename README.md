@@ -6,7 +6,7 @@ I'm Jonathan and I'm not too sure what to put here, so I'm going to follow GitHu
 
 🍺 I write a lot of code in my off hours too. My favorite kind of side project is one that can get to an MVP in a weekend, but that lends itself to endless iteration. I would love to collaborate on something small and useful. I most recently have been working on a Ruby clone of [Wordle](https://github.com/jonathanwthom/wordle).
 
-💎 I write Ruby, JavaScript, and Go. 
+💎 I write Ruby, JavaScript, and Go. I'm getting into Kubernetes.
 
 🌎 You can visit my personal site at [jonathanthom.com](https://jonathanthom.com), but this page is probably a lot more interesting.
 
